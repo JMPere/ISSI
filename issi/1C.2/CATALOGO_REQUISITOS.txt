@@ -1,0 +1,40 @@
+CATALOGO DE REQUISITOS
+ºRequisitos generales/objetivos
+
+-Gestión de inventario: Aplicación que lleve el control del stock de la tienda
+-Gestión de clientes: Aplicación que almacene los adtos de los clientes de la empresa 
+		      y poder asignar los proyectos que solicite.
+-Gestión de proyectos: Aplicación para clasificar los proyectos tanto realizados como en proceso
+		       y asignarles valoraciones de los clientes, fechas de inicio y finalizacion
+		       e imagenes si así lo desea.
+-Gestión de encargos: Aplicacion que permita la comunicación entre cliente y encargado para la
+		      realización de pedidos dando una breve descripcion de lo que necesita así como subir 
+		      archivos para que el encargado/cliente tenga una ligera vision del proyecto.
+
+ºRequisitos de informacion
+
+RI-001 - GESTION DE INVENTARIO
+Como encargado
+quiero saber las existencias de las que dispongo
+para optimizar el tiempo a la hora de recibir un pedido.
+
+RI-002 - GESTIÓN DE CLIENTES
+Como encargado
+quiero poder acceder facilmente a los datos de los clientes registrados
+para poder ponerme en contacto con ellos para una posible consulta o
+tener una vision general de sus proyectos.
+
+RI-003 - GESTIÓN DE PROYECTOS
+Como encargado
+quiero actualizar el estado de los proyectos, subir imágenes de él o añadir comentarios
+para poder modificar la informacion de manera rapida
+
+RI-004 - GESTIÓN DE ENCARGOS
+Como encargado/cliente
+quiero una forma de comunicarme con el cliente/encargado 
+para intercambiar ideas sobre el proyecto
+
+RI-005 - OFERTAS
+Como cliente
+quiero estar al tanto de las ofertas y promociones activas
+para ahorrar en gastos

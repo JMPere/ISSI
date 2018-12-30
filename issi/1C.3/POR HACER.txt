@@ -1,0 +1,19 @@
+Punto 9 -> Belen y pere
+
+Punto 10:
+
+• Scripts de creación de tablas, restricciones,   )
+secuencias, triggers asociados a la gestión de	  |--> kike
+secuencias. 					  )
+
+• Scripts de creación de funciones y procedimientos.  )
+						      |--> Guillen
+• Scripts de cursores y de listados de consultas.     )
+
+• Script de creación de triggers no asociados a  )
+secuencias.					 |--> Pere
+						 )
+
+• Script de pruebas, que deben cubrir todo el código  )
+desarrollado.					      |--->Belen
+						      )
